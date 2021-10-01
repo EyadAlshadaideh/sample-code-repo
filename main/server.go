@@ -136,6 +136,7 @@ func main() {
 
 	serviceVersion = c.MainVersion
 	
+	
 	// create a new handler
 	handler := HTTPHandler{}
 
